@@ -1,0 +1,13 @@
+version: "3.8"
+services:
+  backend:
+    build: ./backend/StudentAttendanceApi
+    ports:
+      - "5000:80"
+
+  frontend:
+    build: ./frontend/student-attendance-frontend
+    ports:
+      - "8080:80"
+    depends_on:
+      - backend
