@@ -155,3 +155,5 @@ C:\Projects\tt4-final-exam-1280_2025050212001600\backend\StudentAttendanceApi\ob
 C:\Projects\tt4-final-exam-1280_2025050212001600\backend\StudentAttendanceApi\obj\Debug\net9.0\StudentAttendanceApi.pdb
 C:\Projects\tt4-final-exam-1280_2025050212001600\backend\StudentAttendanceApi\obj\Debug\net9.0\StudentAttendanceApi.genruntimeconfig.cache
 C:\Projects\tt4-final-exam-1280_2025050212001600\backend\StudentAttendanceApi\obj\Debug\net9.0\ref\StudentAttendanceApi.dll
+C:\Projects\tt4-final-exam-1280_2025050212001600\backend\StudentAttendanceApi\bin\Debug\net9.0\package.json
+C:\Projects\tt4-final-exam-1280_2025050212001600\backend\StudentAttendanceApi\obj\Debug\net9.0\StudentAttendanceApi.sourcelink.json
